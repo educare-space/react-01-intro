@@ -1,0 +1,26 @@
+.Nav {
+  background-color: #333;
+  overflow: hidden;
+}
+.Nav .App-logo {
+  float: left;
+  height: 5rem;
+  padding: 1rem;
+}
+
+.Nav ul a {
+  color: #fff;
+  display: block;
+  padding: 2rem;
+  text-decoration: none;
+}
+
+.Nav ul a:hover {
+  color: yellow;
+}
+
+.Nav ul li {
+  display: inline-block;
+  font-size: 1.4rem;
+  font-weight: bold;
+}
