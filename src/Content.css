@@ -1,4 +1,25 @@
 .Content {
-  padding: 5rem;
   line-height: 24pt;
+}
+.hero {
+  background-color: rgb(143, 205, 255);
+  padding: 5rem;
+  min-height: 50vh;
+}
+.portfolio {
+  text-align: center;
+}
+.portfolio ul {
+  margin: 0;
+  padding-left: 0;
+  line-height: 0;
+}
+.portfolio li {
+  list-style: none;
+  display: inline-block;
+  margin: 1rem;
+  margin-bottom: 0;
+}
+.portfolio img {
+  max-width: 100%;
 }
